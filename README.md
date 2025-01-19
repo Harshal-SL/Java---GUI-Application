@@ -23,11 +23,3 @@ The key user of this tool is expected to use it for brainstorming, instructing, 
 - **Rgument**: AnyIDE that may support Java development (for instance, IntelliJ IDEA, Eclipse, NetBeans)
 - **OS**: Cross-platform (Windows, macOS, Linux)
 
-## Installation
-
-1. Clone (or download) this available repository at your location.
-
---------------------------------------------------- 
-
--bash
-git clone https://github.com/yourusername/virtual-whiteboard.git
